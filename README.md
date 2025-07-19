@@ -11,8 +11,8 @@ This repository contains a set of automated web tests built using **Python** and
 
 ## ✅ Tested Features
 
-✅ Login tests (valid and invalid credentials)
-✅ Browser window/tab handling
-✅ Viewport resizing (responsive design tests)
-✅ Page navigation and validations
-✅ Element presence and interaction checks
+- Login tests (valid and invalid credentials)
+- Browser window/tab handling
+- Viewport resizing (responsive design tests)
+- Page navigation and validations
+- Element presence and interaction checks
