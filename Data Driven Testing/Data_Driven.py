@@ -41,5 +41,5 @@ for row in sheet.iter_rows(min_row=2, max_row=sheet.max_row,values_only=True):
     # Locate and click logout button element
     driver.find_element(By.ID,"logout_sidebar_link").click()
     time.sleep(3)
-    
+
 driver.quit()
