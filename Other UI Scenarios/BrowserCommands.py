@@ -1,5 +1,7 @@
-from selenium import webdriver
+import time
 from selenium.webdriver.common.by import By
+
+from selenium import webdriver
 
 # Open browser and access url
 driver = webdriver.Chrome()
